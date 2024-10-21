@@ -1,1 +1,1 @@
-# Hello World,I'm Goshen C
+# Hello World,I'm Goshen C.
